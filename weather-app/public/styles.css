@@ -1,0 +1,17 @@
+html, body, #root, .App{
+    height: 100%;
+}
+#root{
+    background: url(weather.png);
+    background-size: cover;
+}
+.mainbord{
+    margin: 200px auto;
+    width: 410px;
+    height: 300px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
+.wdata{
+    font-size: 1.5rem;
+}
